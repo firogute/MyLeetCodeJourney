@@ -24,6 +24,7 @@ The repository is organized by problem category and difficulty level for easy na
 
 | Problem ID | Title                                | Difficulty | Solution Link                         |
 |------------|--------------------------------------|------------|---------------------------------------|
-| 1          | Two Sum                             | Easy       | [Solution](./TwoSum.py)       |
-| 9          | PalindromeNumber                    | Medium     | [Solution](./PalindromeNumber.js) |
+| 1          | Two Sum                             | Easy       | [Solution](./1.%20TwoSum.js)       |
+| 9          | PalindromeNumber                    | Easy     | [Solution](./9.%20PalindromeNumber.js) |
+| 26          | Remove Duplicates From Sorted Array                    | Easy     | [Solution](./26.%20RemoveDuplicatesfromSortedArray.js) |
 | ...        | ...                                  | ...        | ...                                   |
