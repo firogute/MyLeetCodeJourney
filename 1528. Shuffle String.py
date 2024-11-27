@@ -1,5 +1,5 @@
 class Solution:
-    def restoreString(self, s: str, indices: List[int]) -> str:
+    def restoreString(self, s: str, indices: list[int]) -> str:
         t = [''] * len(s)
         print(t)
         for i in range(len(s)):
