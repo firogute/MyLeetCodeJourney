@@ -46,6 +46,11 @@ The repository is organized by problem category and difficulty level for easy na
 | 75         | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                 | Medium     | [Solution](./75.%20Sort%20Colors.py)                                               |
 | 704        | [Binary Search](https://leetcode.com/problems/binary-search/)                                                             | Easy       | [Solution](./704.%20Binary%20Search.py)                                            |
 | 74         | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                                   | Medium     | [Solution](./74.%20Search%20a%202D%20Matrix.py)                                    |
+| 700        | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)                           | Easy       | [Solution](./700.%20Search%20in%20a%20Binary%20Search%20Tree.py)                   |
+| 701        | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)                           | Medium       | [Solution](./701.%20Insert%20into%20a%20Binary%20Search%20Tree.py)                   |
+| 450        | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)                           | Medium       | [Solution](./450.%20Delete%20Node%20in%20a%20BST.py)                   |
+| 94        | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                           | Medium       | [Solution](./94.%20Binary%20Tree%20Inorder%20Traversal.py)                   |
+| 230        | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                           | Medium       | [Solution](./230.%20Kth%20Smallest%20Element%20in%20a%20BST.py)                   |
 | ...        | ...                                                                                                                       | ...        | ...                                                                                |
 
 ## 🚧 Work in Progress

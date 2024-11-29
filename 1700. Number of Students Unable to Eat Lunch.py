@@ -1,5 +1,5 @@
 class Solution:
-    def countStudents(self, students: List[int], sandwiches: List[int]) -> int:
+    def countStudents(self, students: list[int], sandwiches: list[int]) -> int:
         num = len(students)
 
         count = Counter(students)
